@@ -6,6 +6,7 @@ sudo pacman -S tilix rofi firefox ttf-material-design-icons-webfont
 
 ## Rutas archivos 
 config --> /home/tu_usuario/.i3/
+
 i3status.conf --> /etc/
 
 ## Ruta iconos 
