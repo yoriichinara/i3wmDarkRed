@@ -1,9 +1,9 @@
 # i3wmDarkRed
 Archivos para la personalización de Manjaro i3 fachero 
 
-![Image text](https://github.com/yoriichinara/i3wmDarkRed/screenshots/sc1.png)
+![Image text](https://github.com/yoriichinara/i3wmDarkRed/blob/main/screenshots/sc1.png)
 
-![Image text](https://github.com/yoriichinara/i3wmDarkRed/screenshots/sc2.png)
+![Image text](https://github.com/yoriichinara/i3wmDarkRed/blob/main/screenshots/sc2.png)
 
 ## Paquetes necesarios 
 sudo pacman -S tilix rofi firefox ttf-material-design-icons-webfont
